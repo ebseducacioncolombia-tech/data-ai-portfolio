@@ -71,6 +71,11 @@ Data Load → Cleaning → IVC Feature Engineering → EDA
 → Traffic-Light Segmentation → Economic Threshold Optimization
 → 3-Scenario P&L → Random Forest → Committee Recommendation
 ```
+### Dashboard / Visualización
+![Dashboard Overview](images/dashboard_overview.png)
+*Interactive dashboard showing KPIs, traffic-light segmentation, and scenario analysis*
+
+> Built with Power BI — 4 KPIs + semáforo slicer + escenarios A/B/C
 
 ### Stack
 `Python` · `pandas` · `numpy` · `matplotlib` · `scikit-learn` · `Random Forest` · `IVC Feature Engineering` · `ROC-AUC`
