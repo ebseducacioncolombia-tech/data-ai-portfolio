@@ -138,9 +138,9 @@ CSV Load → ETL & Data Quality → EDA → K-Means Clustering (K=3)
 ## Project 3 — Medellín Business Leads Scraper
 ## Proyecto 3 — Scraper de Leads Empresariales en Medellín
 
-**EN:** Data engineering pipeline that extracts and enriches 400+ business leads from Google Maps across 22 zones in Medellín, covering Dentistry and Aesthetic Clinics sectors. Each record is enriched with email and WhatsApp contact data using static scraping with Selenium fallback for JS-rendered sites.
+**EN:** Data engineering pipeline that extracts and enriches 4000+ business leads from Google Maps across 22 zones in Medellín, covering Dentistry and Aesthetic Clinics sectors. Each record is enriched with email and WhatsApp contact data using static scraping with Selenium fallback for JS-rendered sites.
 
-**ES:** Pipeline de ingeniería de datos que extrae y enriquece más de 400 leads empresariales de Google Maps en 22 zonas de Medellín, cubriendo los sectores de Odontología y Clínicas Estéticas. Cada registro se enriquece con email y WhatsApp mediante scraping estático con fallback Selenium para sitios renderizados en JS.
+**ES:** Pipeline de ingeniería de datos que extrae y enriquece más de 4000 leads empresariales de Google Maps en 22 zonas de Medellín, cubriendo los sectores de Odontología y Clínicas Estéticas. Cada registro se enriquece con email y WhatsApp mediante scraping estático con fallback Selenium para sitios renderizados en JS.
 
 ### Architecture / Arquitectura
 ```
