@@ -166,9 +166,9 @@ Google Maps Places API → Place Details (phone · website)
 ## Project 4 — WhatsApp AI Assistant with Persistent Memory
 ## Proyecto 4 — Asistente de IA para WhatsApp con Memoria Persistente
 
-**EN:** Fully automated WhatsApp assistant powered by AI that maintains persistent conversation memory, understands user intent, and responds contextually. Deployed via Twilio webhooks and orchestrated through n8n. Production-deployed on Docker/VPS with webhook architecture.
+**EN:** Fully automated WhatsApp assistant powered by AI that maintains persistent conversation memory, understands user intent, and responds contextually. Deployed via Twilio webhooks and orchestrated through n8n. Production-deployed on Docker/VPS with webhook architecture. Designed and implemented a PostgreSQL database for an automated WhatsApp appointment scheduling system. Managed tables, queries, and database maintenance in a production environment using Docker on a Linux server.
 
-**ES:** Asistente de WhatsApp completamente automatizado que mantiene memoria persistente de conversación, comprende la intención del usuario y responde de forma contextual. Desplegado con webhooks de Twilio y orquestado mediante n8n. Desplegado en producción sobre Docker/VPS.
+**ES:** Asistente de WhatsApp completamente automatizado que mantiene memoria persistente de conversación, comprende la intención del usuario y responde de forma contextual. Desplegado con webhooks de Twilio y orquestado mediante n8n. Desplegado en producción sobre Docker/VPS.Diseñé e implementé una base de datos PostgreSQL para un sistema automatizado de agendamiento de citas por WhatsApp. Gestioné tablas, consultas y mantenimiento de base de datos en ambiente de producción usando Docker en servidor Linux.
 
 ### Architecture / Arquitectura
 ```
